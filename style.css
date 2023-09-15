@@ -6,10 +6,11 @@
 .header {
     display: flex;
     flex-direction: row;
-    /*justify-content: center;*/
     padding-top: 10px;
     background: rgb(136, 131, 131);
     height: 35px;
+    gap: 500px;
+    font-family: 'fuggles', cursive;
 }
 
 .headerlogo {
@@ -17,12 +18,15 @@
     justify-self: flex-start;
     padding-left: 20px;
     color: rgb(225, 220, 220);
-    font-family: 'Fuggles', cursive;
     font-size: 20px;
 }
 
-.headerlinks {
-    
+ul {
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+    color: rgb(225, 220, 220);
+    font-size: 20px;
 }
 
 img {
