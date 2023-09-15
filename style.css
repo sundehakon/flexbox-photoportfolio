@@ -9,7 +9,7 @@
     padding-top: 10px;
     background: rgb(136, 131, 131);
     height: 35px;
-    gap: 500px;
+    gap: 1200px;
     font-family: 'fuggles', cursive;
 }
 
@@ -31,14 +31,10 @@ ul {
     font-size: 20px;
 }
 
-button {
-    font-family: 'fuggles', cursive;
-    background: transparent;
-    border: transparent;
-}
 img {
-    height: 200px;
+    height: 300px;
     width: auto;
+    border: 5px solid rgb(225, 220, 220);
 }
 .information {
     display: flex;
