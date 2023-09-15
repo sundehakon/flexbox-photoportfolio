@@ -34,7 +34,8 @@ ul {
 img {
     height: 300px;
     width: auto;
-    border: 5px solid rgb(225, 220, 220);
+    border: 5px solid rgb(255, 255, 255);
+    box-shadow: 10px 10px 5px rgb(255, 255, 255);
 }
 .information {
     display: flex;
