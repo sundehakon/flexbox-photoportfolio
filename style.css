@@ -25,10 +25,17 @@ ul {
     display: flex;
     gap: 30px;
     list-style-type: none;
+    text-decoration: none rgb(225, 220, 220);
     color: rgb(225, 220, 220);
+    background-color: rgb(136, 131, 131);
     font-size: 20px;
 }
 
+button {
+    font-family: 'fuggles', cursive;
+    background: transparent;
+    border: transparent;
+}
 img {
     height: 200px;
     width: auto;
