@@ -5,16 +5,24 @@
 
 .header {
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
     background-color: rgb(136, 131, 131);
     padding-top: 10px;
     height: 35px;
+    gap: 1530px;
+}
+
+.headerlogo {
+    font-family: 'Shadows Into Light' cursive;
+    color: white;
 }
 
 ul {
-    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
     list-style-type: none;
-    font-family: 'fuggles', cursive;
+    font-family: 'Shadows Into Light', cursive;
     font-size: 20px;
     font-weight: bolder;
 }

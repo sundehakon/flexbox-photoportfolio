@@ -9,7 +9,7 @@
     padding-top: 10px;
     background: rgb(136, 131, 131);
     height: 35px;
-    gap: 1200px;
+    gap: 1100px;
     font-family: 'Shadows Into Light', cursive;
 }
 
@@ -52,7 +52,7 @@ img {
     font-weight: bolder;
     font-size: 50px;
     color: rgb(225, 220, 220);
-    font-family: 'fuggles', cursive;
+    font-family: 'Shadows Into Light', cursive;
 
 }
 
@@ -72,7 +72,7 @@ img {
 }
 
 .previewheader {
-    font-family: 'fuggles', cursive;
+    font-family: 'Shadows Into Light', cursive;
     font-weight: bolder;
     font-size: 60px;
 }
